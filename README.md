@@ -34,16 +34,24 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica de Bra
 <br>
 
 <!-- TECNOLOGIAS -->
-## 🛠️ Stack Tecnológico e Sistemas
+## 🛠️ Stack Tecnológico, Ferramentas e Sistemas
 
-<div align="left">
+<div align="center">
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
   <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00599C" alt="Swift" />
+  
+  <!-- Sistemas Operacionais -->
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=00599C" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00599C" alt="Windows" />
+  
+  <!-- IDEs e Editores -->
+  <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=00599C" alt="Xcode" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=00599C" alt="VS Code" />
 </div>
 
 <br>
+
 
 <!-- PROJETOS EM CARDS (TABELA MINIMALISTA) -->
 ## 🚀 Projetos
@@ -51,7 +59,7 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica de Bra
 <table bordercolor="#000000" align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Projetos Acadêmicos (C)</h3>
+      <h3 align="center">📚 Projetos Acadêmicos </h3>
       <ul>
         <li><b>🐾 Sistema de Petshop:</b> Sistema de gestão de atendimento e catálogo de serviços.</li>
         <li><b>🍔 Sistema de Cantina/Lanchonete:</b> Controle de pedidos e gestão comercial interna.</li>
