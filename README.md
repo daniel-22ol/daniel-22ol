@@ -69,56 +69,6 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica de Bra
 
 <br>
 
-<!-- GITHUB STATS & LINGUAGENS -->
-## 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-22ol&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00599C&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-22ol&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="195" alt="Top Languages" />
-</div>
-
-<br>
-
-<!-- STREAK -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-22ol&theme=dark&background=000000&border=000000&ring=00599C&fire=00599C&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-22ol&bg_color=000000&color=ffffff&line=00599C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daniel-22ol&theme=gitdark&no-bg=true&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-## 🐍 Contribuições
-
-> **Nota:** Para que a cobrinha funcione, certifique-se de configurar a GitHub Action em seu repositório gerando o arquivo `github-contribution-grid-snake.svg`.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- RODAPÉ -->
 ---
 <div align="center">
