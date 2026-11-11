@@ -52,6 +52,11 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica de Bra
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-snake.svg" alt="GitHub contribution snake" width="100%" />
+</picture>
 
 <!-- PROJETOS EM CARDS (TABELA MINIMALISTA) -->
 ## 🚀 Projetos
