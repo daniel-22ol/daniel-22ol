@@ -19,7 +19,7 @@
 ## 📌 Sobre Mim
 
 - 🎓 Graduando em **Engenharia de Software** pela **Universidade Católica de Brasília (UCB)** (Previsão: 2030).
-- 💻 Atualmente desenvolvendo sistemas e aplicações nativas em **C** no ambiente macOS (como servidores HTTP e sistemas de gestão).
+- 💻 Atualmente desenvolvendo sistemas e aplicações nativas em **C** no ambiente macOS.
 - 🚀 Estudando de forma autônoma tecnologias como **Swift, Java, JavaScript, HTML e CSS**.
 - ⚙️ Entusiasta de arquitetura de software, organização de código e do ecossistema Apple.
 - 💡 Foco em colaboração em equipe, revisão de código e quebra de problemas complexos em etapas modulares.
