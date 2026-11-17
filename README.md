@@ -58,30 +58,6 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica de Bra
   <img src="https://raw.githubusercontent.com/daniel-22ol/daniel-22ol/output/github-snake.svg" alt="GitHub contribution snake" width="100%" />
 </picture>
 
-<!-- PROJETOS EM CARDS (TABELA MINIMALISTA) -->
-## 🚀 Projetos
-
-<table bordercolor="#000000" align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Projetos Acadêmicos </h3>
-      <ul>
-        <li><b>🐾 Sistema de Petshop:</b> Sistema de gestão de atendimento e catálogo de serviços.</li>
-        <li><b>🍔 Sistema de Cantina/Lanchonete:</b> Controle de pedidos e gestão comercial interna.</li>
-        <li><b>🚗 Sistema de Concessionária:</b> Simulação de financiamento e verificação de condições veiculares.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Projetos Pessoais</h3>
-      <ul>
-        <li><b>💰 Sistema de Finanças (Em Construção):</b> Desenvolvimento de uma aplicação focada em gestão financeira estruturada em <b>Swift</b> e <b>C</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- RODAPÉ -->
 ---
 <div align="center">
